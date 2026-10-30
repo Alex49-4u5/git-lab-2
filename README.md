@@ -2,3 +2,4 @@
 Автор: Жиганов А.С.
 Описание: Комплексная работа по Git.
 Draft documentation
+Incorrect project description
